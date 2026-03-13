@@ -74,7 +74,3 @@ vcs -full64 -sverilog +v2k \
 
 ./sim/mesi_sim
 ```
-
-## License
-
-This project is intended for educational and research purposes.
